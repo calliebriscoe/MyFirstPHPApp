@@ -1,0 +1,99 @@
+
+
+.form_field {
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+#name_date_field div {
+    display: inline-block;
+    max-width: 50%;
+}
+#article-form textarea {
+    width: 100%;
+    height: 10em;
+}
+/*
+body {
+    font-family: sans-serif;
+    margin: 3em;
+}
+
+#fav_color {
+}
+
+.navbar {
+    list-style-type: none;
+    position: fixed;
+    bottom: 0;
+    background-color: lightblue
+}
+
+.navbar li {
+    display: inline;
+    text-align: center;
+    padding: 5em;
+    ;
+  ;
+}
+.cool {
+    list-style-type: none;
+    align: center;
+}
+
+/*
+# for id
+. for class
+
+
+#main-header {
+}
+
+.snippet {
+    margin: 2em;
+    padding: 4em;
+    text-align: center;
+}
+
+.cool {
+    font-style: italic;
+    text-align: center;
+
+}
+
+#nice_pic {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    float: left;
+    width:  20em;
+    height: 10em;
+    padding-bottom: 2em;
+
+}
+
+/*
+body {
+    font-family: fantasy;
+    margin: 4em;
+}
+h1 {
+    text-align: center;
+    border-bottom: solid 2px black;
+    padding-bottom: .5em;
+    Font-size: 6em;
+}
+.snippet {
+    margin: 3em;
+    border: solid 1px darkslategray;
+    padding: 1em;
+    background: lightgray;
+}
+. {
+    width: 100%;
+    align: center;
+}
+.author {
+    font-style: italic;
+}
+*/
